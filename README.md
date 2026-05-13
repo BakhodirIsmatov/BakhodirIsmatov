@@ -14,11 +14,10 @@
 
 </div>
 
----
-<div align="center">
+---  
 
-  <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ````md id="d5kr3a"
 # 👨‍💻 About Me
 
@@ -132,15 +131,6 @@ fun_fact:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,opencv,tensorflow,php,laravel,nodejs,ruby,cs,dotnet,cpp,vue,nuxtjs,react,bootstrap,flutter,dart,firebase,postgres,mysql,mongodb,sqlite,redis,kafka,rabbitmq,docker,linux,nginx,jenkins,grafana,prometheus,sentry,git,github,gitlab,postman,figma,vscode,raspberrypi,arduino,unity"/>
-
-</div>
----
-
-# 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BakhodirIsmatov/BakhodirIsmatov/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
