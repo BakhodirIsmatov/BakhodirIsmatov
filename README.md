@@ -1,13 +1,13 @@
 # README.md
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Bahodir%20Ismatov&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Full%20Stack%20Engineer%20•%20Team%20Lead%20•%20DevOps&descAlignY=60"/>
-
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=220&section=header&text=Bahodir%20Ismatov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20Team%20Lead%20|%20DevOps&descAlignY=58&descSize=18"
+  />
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+Systems;⚡+Python+Backend+Engineer;🔥+FastAPI+%7C+Django+%7C+DevOps;🧠+Team+Lead+with+12%2B+Years+Experience;☁️+Docker+%7C+CI%2FCD+%7C+Linux"/>
-
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=🚀+Building+Scalable+Systems;⚡+Python+Backend+Engineer;🔥+FastAPI+%7C+Django+%7C+DevOps;☁️+Docker+%7C+CI%2FCD+%7C+Linux"
+  />
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=BakhodirIsmatov&style=for-the-badge&color=2563eb"/>
@@ -74,10 +74,9 @@ databases:
 # 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BakhodirIsmatov&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BakhodirIsmatov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhodirIsmatov&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhodirIsmatov&layout=compact&theme=tokyonight&count_private=true" />
 
 </div>
 
@@ -87,7 +86,7 @@ databases:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BakhodirIsmatov&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BakhodirIsmatov&theme=tokyonight" />
 
 </div>
 
