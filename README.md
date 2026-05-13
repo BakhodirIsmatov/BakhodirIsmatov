@@ -15,8 +15,10 @@
 </div>
 
 ---
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
 
+  <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 ````md id="d5kr3a"
 # 👨‍💻 About Me
 
@@ -132,48 +134,6 @@ fun_fact:
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,opencv,tensorflow,php,laravel,nodejs,ruby,cs,dotnet,cpp,vue,nuxtjs,react,bootstrap,flutter,dart,firebase,postgres,mysql,mongodb,sqlite,redis,kafka,rabbitmq,docker,linux,nginx,jenkins,grafana,prometheus,sentry,git,github,gitlab,postman,figma,vscode,raspberrypi,arduino,unity"/>
 
 </div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BakhodirIsmatov&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BakhodirIsmatov&layout=compact&theme=tokyonight&count_private=true" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BakhodirIsmatov&theme=tokyonight" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BakhodirIsmatov&theme=tokyo-night&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BakhodirIsmatov&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
-
-</div>
-
 ---
 
 # 🐍 Contribution Snake Animation
@@ -186,20 +146,6 @@ fun_fact:
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description |
-|---|---|
-| 🚚 Delivery System | Real-time courier tracking system |
-| ✈️ Aviation API | Airline ticketing integration |
-| 🍔 POS System | Restaurant & cafe management |
-| 🤖 Telegram Bots | Automation & business bots |
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
