@@ -65,7 +65,7 @@ databases:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,yii2,python,django,fastapi,nodejs,vue,react,docker,postgres,mysql,mongodb,redis,linux,git,github,gitlab,jenkins"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,yii,python,django,fastapi,nodejs,vue,react,docker,postgres,mysql,mongodb,redis,linux,git,github,gitlab,jenkins"/>
 
 </div>
 
