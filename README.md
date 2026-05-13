@@ -18,6 +18,78 @@
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+````md id="y4n2ke"
+# 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+name: Bahodir Ismatov
+
+role:
+  - Full Stack Engineer
+  - Team Lead
+  - DevOps Engineer
+
+experience: 12+ years
+
+specialization:
+  - B2B / B2C Systems
+  - Real-time Architectures
+  - High-load Systems
+  - Microservices
+  - AI Integrations
+
+realtime:
+  - WebSocket
+  - Real-time Chat
+  - Live Tracking
+  - Event-driven Systems
+````
+
+</td>
+
+<td width="50%" valign="top">
+
+```yaml
+backend:
+  - Python
+  - Django
+  - FastAPI
+  - Flask
+  - PHP
+  - Laravel
+  - Yii Framework
+  - Node.js
+
+frontend:
+  - Vue.js
+  - Nuxt.js
+  - React.js
+  - Flutter
+
+devops:
+  - Docker
+  - Linux
+  - Jenkins
+  - Nginx
+  - Grafana
+  - Prometheus
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🚀 Building scalable B2B & B2C products with clean architecture
+
+</div>
+```
+
 ````md id="d5kr3a"
 # 👨‍💻 About Me
 
