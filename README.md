@@ -16,48 +16,113 @@
 
 ---
 
+````md id="d5kr3a"
 # 👨‍💻 About Me
+
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name: Bahodir Ismatov
-role: Team Lead / Full Stack Developer
+
+role:
+  - Full Stack Engineer
+  - Team Lead
+  - DevOps Engineer
+
 experience: 12+ years
-location: Uzbekistana
 
-currently_working_on:
+specialization:
+  - B2B Systems
+  - B2C Platforms
   - High-load backend systems
-  - Delivery systems
-  - Real-time WebSocket architecture
-  - DevOps automation
+  - Real-time architectures
+  - WebSocket systems
+  - Scalable microservices
   - AI integrations
+  - Infrastructure automation
 
-backend:
-  - Python
-  - Django
-  - FastAPI
-  - Node.js
-  - PHP
-  - Laravel
-  - Yii framework
+built_systems:
+  - Delivery Platforms
+  - POS Systems
+  - Aviation Systems
+  - Real-time Tracking Systems
+  - Payment Integrations
+  - CRM / ERP Platforms
+  - Automation Systems
 
-frontend:
-  - Vue.js
-  - Nuxt.js
-  - React.js
+currently_working_with:
 
-devops:
-  - Docker
-  - GitLab CI/CD
-  - Jenkins
-  - Grafana
-  - Linux
+  backend:
+    - Python
+    - Django
+    - FastAPI
+    - Flask
+    - PHP
+    - Laravel
+    - Yii Framework
+    - Node.js
+    - Ruby
 
-databases:
-  - PostgreSQL
-  - MySQL
-  - MongoDB
-  - MariaDB
-```
+  realtime:
+    - WebSocket
+    - Real-time Chat Systems
+    - Real-time Data Updates
+    - Live Tracking Systems
+    - Event-driven Architecture
+
+  frontend:
+    - Vue.js
+    - Nuxt.js
+    - React.js
+    - Bootstrap
+
+  mobile:
+    - Flutter
+    - Dart
+    - Firebase
+
+  ai_cv:
+    - OpenCV
+    - TensorFlow
+
+  devops:
+    - Docker
+    - Jenkins
+    - Nginx
+    - Linux
+    - Grafana
+    - Prometheus
+    - GitLab CI/CD
+
+  databases:
+    - PostgreSQL
+    - MySQL
+    - MongoDB
+    - SQLite
+    - Redis
+
+  messaging:
+    - Kafka
+    - RabbitMQ
+
+  embedded:
+    - Raspberry Pi
+    - Arduino
+
+fun_fact:
+  "I enjoy building scalable real-time systems and automating everything ⚡"
+````
+
+<br clear="both"/>
+
+---
+
+<div align="center">
+
+### 🚀 Building scalable B2B & B2C products with clean architecture & modern technologies
+
+</div>
+
 
 ---
 
