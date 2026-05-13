@@ -16,10 +16,9 @@
 
 ---  
 
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-````md id="y4n2ke"
 # 👨‍💻 About Me
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <table>
 <tr>
@@ -36,18 +35,22 @@ role:
 experience: 12+ years
 
 specialization:
-  - B2B / B2C Systems
-  - Real-time Architectures
-  - High-load Systems
-  - Microservices
+  - B2B & B2C Systems
+  - High-load Architectures
+  - Real-time Applications
+  - WebSocket Systems
+  - Scalable Microservices
   - AI Integrations
+  - Infrastructure Automation
 
-realtime:
-  - WebSocket
-  - Real-time Chat
-  - Live Tracking
-  - Event-driven Systems
-````
+built_systems:
+  - Delivery Platforms
+  - POS Systems
+  - Aviation Systems
+  - CRM / ERP Platforms
+  - Real-time Tracking Systems
+  - Automation Platforms
+```
 
 </td>
 
@@ -63,13 +66,31 @@ backend:
   - Laravel
   - Yii Framework
   - Node.js
+  - Ruby
 
 frontend:
   - Vue.js
   - Nuxt.js
   - React.js
-  - Flutter
+  - Bootstrap
 
+mobile:
+  - Flutter
+  - Dart
+  - Firebase
+
+ai_cv:
+  - OpenCV
+  - TensorFlow
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+```yaml
 devops:
   - Docker
   - Linux
@@ -77,18 +98,54 @@ devops:
   - Nginx
   - Grafana
   - Prometheus
+  - GitLab CI/CD
+
+databases:
+  - PostgreSQL
+  - MySQL
+  - MongoDB
+  - SQLite
+  - Redis
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```yaml
+messaging:
+  - Kafka
+  - RabbitMQ
+
+embedded:
+  - Raspberry Pi
+  - Arduino
+
+workflow:
+  - CI/CD Pipelines
+  - Monitoring Systems
+  - Server Management
+  - Performance Optimization
+
+fun_fact:
+  "I enjoy building scalable
+   real-time systems ⚡"
 ```
 
 </td>
 </tr>
 </table>
 
+<br clear="both"/>
+
+---
+
 <div align="center">
 
-### 🚀 Building scalable B2B & B2C products with clean architecture
+### 🚀 Building scalable B2B & B2C products with clean architecture & modern technologies
 
 </div>
-```
+
 
 ````md id="d5kr3a"
 # 👨‍💻 About Me
