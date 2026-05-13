@@ -15,11 +15,10 @@
 </div>
 
 ---
+<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ````md id="d5kr3a"
 # 👨‍💻 About Me
-
-<img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name: Bahodir Ismatov
