@@ -146,16 +146,6 @@ fun_fact:
 
 </div>
 
-<br clear="both"/>
-
----
-
-<div align="center">
-
-### 🚀 Building scalable B2B & B2C products with clean architecture & modern technologies
-
-</div>
-
 
 ---
 
